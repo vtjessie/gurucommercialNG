@@ -6,7 +6,10 @@
       <class name="guruECommercePackage.ProductReview">
         <methods>
           <include name="beforeMethod"/>
+          <include name="productReview"/>
+          <include name="verifyFields"/>
           <include name="verifySort"/>
+          <include name="searchFunctionality"/>
           <include name="afterMethod"/>
           <include name="lauchSetUp"/>
           <include name="afterTest"/>
