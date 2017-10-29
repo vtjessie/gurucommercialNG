@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="149482" started-at="2017-10-29T15:34:43Z" finished-at="2017-10-29T15:37:12Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="149482" started-at="2017-10-29T15:34:43Z" finished-at="2017-10-29T15:37:12Z">
+      <class name="guruECommercePackage.ProductReview">
+        <test-method status="PASS" signature="lauchSetUp()[pri:0, instance:guruECommercePackage.ProductReview@d2cc05a]" name="lauchSetUp" is-config="true" duration-ms="6248" started-at="2017-10-29T21:04:43Z" finished-at="2017-10-29T21:04:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lauchSetUp -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:guruECommercePackage.ProductReview@d2cc05a]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2017-10-29T21:04:49Z" finished-at="2017-10-29T21:04:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="productReview()[pri:1, instance:guruECommercePackage.ProductReview@d2cc05a]" name="productReview" duration-ms="62109" started-at="2017-10-29T21:04:49Z" finished-at="2017-10-29T21:05:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productReview -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:guruECommercePackage.ProductReview@d2cc05a]" name="afterMethod" is-config="true" duration-ms="0" started-at="2017-10-29T21:05:51Z" finished-at="2017-10-29T21:05:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="searchFunctionality()[pri:1, instance:guruECommercePackage.ProductReview@d2cc05a]" name="searchFunctionality" duration-ms="5486" started-at="2017-10-29T21:05:51Z" finished-at="2017-10-29T21:05:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchFunctionality -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:guruECommercePackage.ProductReview@d2cc05a]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2017-10-29T21:05:51Z" finished-at="2017-10-29T21:05:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:guruECommercePackage.ProductReview@d2cc05a]" name="afterMethod" is-config="true" duration-ms="1" started-at="2017-10-29T21:05:56Z" finished-at="2017-10-29T21:05:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="verifyFields()[pri:1, instance:guruECommercePackage.ProductReview@d2cc05a]" name="verifyFields" duration-ms="37536" started-at="2017-10-29T21:05:56Z" finished-at="2017-10-29T21:06:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyFields -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:guruECommercePackage.ProductReview@d2cc05a]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2017-10-29T21:05:56Z" finished-at="2017-10-29T21:05:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:guruECommercePackage.ProductReview@d2cc05a]" name="afterMethod" is-config="true" duration-ms="0" started-at="2017-10-29T21:06:34Z" finished-at="2017-10-29T21:06:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:guruECommercePackage.ProductReview@d2cc05a]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2017-10-29T21:06:34Z" finished-at="2017-10-29T21:06:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="verifySort()[pri:1, instance:guruECommercePackage.ProductReview@d2cc05a]" name="verifySort" duration-ms="36563" started-at="2017-10-29T21:06:34Z" finished-at="2017-10-29T21:07:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySort -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:guruECommercePackage.ProductReview@d2cc05a]" name="afterMethod" is-config="true" duration-ms="1" started-at="2017-10-29T21:07:11Z" finished-at="2017-10-29T21:07:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:guruECommercePackage.ProductReview@d2cc05a]" name="afterTest" is-config="true" duration-ms="1492" started-at="2017-10-29T21:07:11Z" finished-at="2017-10-29T21:07:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- guruECommercePackage.ProductReview -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
