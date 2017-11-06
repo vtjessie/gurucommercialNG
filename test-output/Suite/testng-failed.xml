@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]" parallel="tests" allow-return-values="true">
+  <test name="Test(failed)" parallel="tests">
+    <classes>
+      <class name="guruECommercePackage.ChangeAndReOrder">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="lauchSetUp"/>
+          <include name="afterTest"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- guruECommercePackage.ChangeAndReOrder -->
+      <class name="guruECommercePackage.ExcelReportMail">
+        <methods>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- guruECommercePackage.ExcelReportMail -->
+      <class name="guruECommercePackage.ProductReview">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="afterMethod"/>
+          <include name="lauchSetUp"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- guruECommercePackage.ProductReview -->
+      <class name="guruECommercePackage.HomePageVerify">
+        <methods>
+          <include name="launcbroserFrom"/>
+          <include name="afterTest"/>
+          <include name="gertPage"/>
+          <include name="purchaseProduct"/>
+        </methods>
+      </class> <!-- guruECommercePackage.HomePageVerify -->
+      <class name="guruECommercePackage.VerifyOrderAndPdf">
+        <methods>
+          <include name="afterTest"/>
+          <include name="lauchSetUp"/>
+          <include name="getBrowser"/>
+        </methods>
+      </class> <!-- guruECommercePackage.VerifyOrderAndPdf -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

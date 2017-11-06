@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="guruECommercePackage.HomePageVerify">
+        <methods>
+          <include name="costOfProduct"/>
+          <include name="addToCart"/>
+          <include name="compareToPhoneUsingText"/>
+          <include name="launcbroserFrom"/>
+          <include name="gertPage"/>
+          <include name="purchaseProduct"/>
+          <include name="wishList"/>
+          <include name="verifylogin"/>
+        </methods>
+      </class> <!-- guruECommercePackage.HomePageVerify -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

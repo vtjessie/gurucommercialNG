@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="methods" allow-return-values="true">
+  <test name="Test">
+    <classes>
+      <class name="guruECommercePackage.ProductReview"/>
+      <class name="guruECommercePackage.ChangeAndReOrder"/>
+      <class name="guruECommercePackage.VerifyOrderAndPdf"/>
+      <class name="guruECommercePackage.HomePageVerify"/>
+      <class name="guruECommercePackage.ExcelReportMail"/>
+    </classes>
+  </test> <!-- Test -->
+  <test name="Data Provider" allow-return-values="true">
+    	  <class name="TestNGPackage.NewTest" allow-return-values="true"/>
+  
+   </test> <!-- Test -->
+</suite> <!-- Suite -->
